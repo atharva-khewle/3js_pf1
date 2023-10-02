@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abstract Core
+* source:	https://sketchfab.com/3d-models/abstract-core-9f8584b1917d47f2ad14d65469b48f44
+* author:	deslancer (https://sketchfab.com/deslancer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abstract Core" (https://sketchfab.com/3d-models/abstract-core-9f8584b1917d47f2ad14d65469b48f44) by deslancer (https://sketchfab.com/deslancer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
